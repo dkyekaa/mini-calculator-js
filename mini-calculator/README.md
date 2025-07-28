@@ -19,6 +19,3 @@ Open "index.html" in your browser, then operate it
 
 
 Thank You for Viewing my Codes, I hope this little project can be helpful to you as Reader
-
-~ Dicky Eka
-
